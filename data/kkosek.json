@@ -1,0 +1,109 @@
+{
+    "user_info":
+        {
+            "userId" : 1, 
+            "firstName" : "Karson",
+            "lastName" : "Kosek",
+            "orm_bench" : 215,
+            "orm_squat" : 285, 
+            "orm_dead" : 285
+        } 
+    ,
+    "lift_records":[
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5, 5, 5, 3, 3, 3],
+            "weights" : [205,205,205,225,225,225],
+            "rpe" : 8,
+            "date" : "2023-10-02"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [10, 10, 10, 10, 10, 10],
+            "weights" : [135,135,135,135,135,135],
+            "rpe" : 5,
+            "date" : "2023-10-02"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [10, 10, 10, 10, 10, 10],
+            "weights" : [15,15,15,15,15,15],
+            "rpe" : 5,
+            "date" : "2023-10-02"
+        },
+        {
+            "exerciseName": "RDL",
+            "reps": [5,5,5,5],
+            "weights" : [90,90,90,90],
+            "rpe" : 6,
+            "date" : "2023-10-02"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5,5,5,5],
+            "weights" : [95,115,105,95],
+            "rpe" : 6,
+            "date" : "2023-10-02"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [10,10,10,10],
+            "weights" : [45,45,45,45],
+            "rpe" : 6,
+            "date" : "2023-10-02"
+        },
+        {
+            "exerciseName": "Pushups",
+            "reps": [10,10,10,10],
+            "weights" : [0,0,0,0],
+            "rpe" : 6,
+            "date" : "2023-10-02"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5, 5, 5, 3, 3, 3],
+            "weights" : [215,215,215,235,235,235],
+            "rpe" : 8,
+            "date" : "2023-10-03"
+        },
+        {
+            "exerciseName": "Front Squat",
+            "reps": [5,5,5],
+            "weights" : [135,135,135],
+            "rpe" : 7,
+            "date" : "2023-10-03"
+        },
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5,5,5,5],
+            "weights" : [95,105,105,95],
+            "rpe" : 7,
+            "date" : "2023-10-03"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5,5],
+            "weights" : [0,0,0,0],
+            "rpe" : 6,
+            "date" : "2023-10-03"
+        },
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10,10,10,10],
+            "weights" : [50,50,50,50],
+            "rpe" : 6,
+            "date" : "2023-10-03"
+        },
+        {
+            "exerciseName": "Shrug",
+            "reps": [10,10,10,10],
+            "weights" : [90,90,90,90],
+            "rpe" : 6,
+            "date" : "2023-10-03"
+        }
+    ]
+    ]
+}
