@@ -6,7 +6,9 @@
             "lastName" : "Kosek",
             "orm_bench" : 215,
             "orm_squat" : 285, 
-            "orm_dead" : 285
+            "orm_dead" : 285,
+            "weight": 165,
+            "height": 5.92
         } 
     ,
     "lift_records":[
@@ -98,12 +100,3202 @@
             "date" : "2023-10-03"
         },
         {
-            "exerciseName": "Shrug",
+            "exerciseName": "Shrugs",
             "reps": [10,10,10,10],
             "weights" : [90,90,90,90],
             "rpe" : 6,
             "date" : "2023-10-03"
         }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5,5],
+            "weights" : [170,170,170,170,170],
+            "rpe" : 6,
+            "date" : "2023-10-04"
+        },
+        {
+            "exerciseName": "Deadlift",
+            "reps": [10,10,10],
+            "weights": [205, 205, 205],
+            "rpe": 8,
+            "date" : "2023-10-04"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [15,15,15,15],
+            "weights": [100,100,100,100],
+            "rpe": 8,
+            "date" : "2023-10-04"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,3,4,2,3,10],
+            "weights": [165,185,205,225,225,235,235,170],
+            "rpe": 9,
+            "date" : "2023-10-05"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [5,5,5,2,2,2],
+            "weights": [135,145,155,165,175,175],
+            "rpe": 8,
+            "date" : "2023-10-05"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [4,4,4,4,4,4],
+            "weights": [0,0,0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-10-05"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [20,20,20],
+            "weights": [50,50,50],
+            "rpe": 6,
+            "date" : "2023-10-05"
+        },
+        {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [20,20,20],
+            "weights": [15,15,15],
+            "rpe": 6,
+            "date" : "2023-10-05"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,6,7,8,9,10],
+            "weights": [190,190,190,155,155,155],
+            "rpe": 8,
+            "date" : "2023-10-06"
+        },
+        {
+            "exerciseName": "Split Squat",
+            "reps": [5,5,5],
+            "weights": [90,90,90],
+            "rpe": 8,
+            "date" : "2023-10-06"
+        },
+        {
+            "exerciseName": "RDL",
+            "reps": [10,10,10],
+            "weights": [95,95,95],
+            "rpe": 6,
+            "date" : "2023-10-06"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10,10,10],
+            "weights": [95,95,95],
+            "rpe": 6,
+            "date" : "2023-10-06"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [2,2,2,2,2,2,2,2,2,2,2,2],
+            "weights": [235,235,235,235,235,235,235,235,235,235,235,235],
+            "rpe": 10,
+            "date" : "2023-10-09"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [5,5,5,5,5],
+            "weights": [155,155,155,155,155],
+            "rpe": 7,
+            "date" : "2023-10-09"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [15,15,15,15,15],
+            "weights": [40,40,40,40,40],
+            "rpe": 9,
+            "date" : "2023-10-09"
+        },
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [15,15,15,15,15],
+            "weights": [50,50,50,50,50],
+            "rpe": 9,
+            "date" : "2023-10-09"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [6,7,8,8,7,6],
+            "weights": [205,205,205,205,205,205],
+            "rpe": 8,
+            "date" : "2023-10-10"
+        },
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5,5,5,5,5],
+            "weights": [205,205,205,205,205],
+            "rpe": 6,
+            "date" : "2023-10-10"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10,10,10,10,10,10,10],
+            "weights": [95,105,115,115,105,105],
+            "rpe": 7,
+            "date" : "2023-10-10"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [10,10,10,10,10,10,10],
+            "weights": [45,45,45,45,45,45,45],
+            "rpe": 6,
+            "date" : "2023-10-10"
+        },
+        {
+            "exerciseName": "Split Squat",
+            "reps": [5,5,5,5,5,5,5],
+            "weights": [90,90,90,90,90,90,90],
+            "rpe": 8,
+            "date" : "2023-10-10"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,3,4,2,3,1,5,10],
+            "weights": [175,215,195,230,215,245,215,175],
+            "rpe": 9,
+            "date" : "2023-10-11"
+        },
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5,5,5,5,5],
+            "weights": [105,115,115,105,105],
+            "rpe": 8,
+            "date" : "2023-10-11"
+        },
+        {
+            "exerciseName": "RDL",
+            "reps": [5,5,5,5],
+            "weights": [115,115,115,115],
+            "rpe": 7,
+            "date" : "2023-10-11"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [15,15,15,15],
+            "weights": [100,100,100,100],
+            "rpe": 7,
+            "date" : "2023-10-11"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5,5],
+            "weights": [185,185,185,185,185],
+            "rpe": 8,
+            "date" : "2023-10-12"
+        },
+        {
+            "exerciseName": "Front Squat",
+            "reps": [5,5,5],
+            "weights": [135,135,135],
+            "rpe": 6,
+            "date" : "2023-10-12"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [6,6,6,6,6],
+            "weights": [0,0,0,0,0],
+            "rpe": 7,
+            "date" : "2023-10-12"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [3,3,3,3,3,3,4],
+            "weights": [175,205,225,255,255,255,255],
+            "rpe": 10,
+            "date" : "2023-10-13"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [3,3,3,4,4,5],
+            "weights": [135,145,155,175],
+            "rpe": 9,
+            "date" : "2023-10-13"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [13,13,13],
+            "weights": [15,15,15],
+            "rpe": 6,
+            "date" : "2023-10-13"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [13,13,13],
+            "weights": [45,45,45],
+            "rpe": 7,
+            "date" : "2023-10-13"
+        },
+        {
+            "exerciseName": "Pushups",
+            "reps": [13,13,13],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date" : "2023-10-13"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5,5],
+            "weights": [195,215,215,235,235],
+            "rpe": 7,
+            "date" : "2023-10-16"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [5,5,5,5,5],
+            "weights": [135,145,145,155,155],
+            "rpe": 7,
+            "date" : "2023-10-16"
+        },
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5,5,5,5,5],
+            "weights": [225,245,245,245,245],
+            "rpe": 8,
+            "date" : "2023-10-16"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5,5,5,5,5],
+            "weights": [100,100,100,100,100],
+            "rpe": 7,
+            "date" : "2023-10-16"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Split Squat",
+            "reps": [5,5,5,5],
+            "weights": [90,90,90,90],
+            "rpe": 8,
+            "date" : "2023-10-17"
+        },
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5],
+            "weights": [155,175,175,175],
+            "rpe": 6,
+            "date" : "2023-10-17"
+        },
+        {
+            "exerciseName": "Front Squat",
+            "reps": [5,5,5],
+            "weights": [135,135,135],
+            "rpe": 7,
+            "date" : "2023-10-17"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5],
+            "weights": [0,0,0],
+            "rpe": 7,
+            "date" : "2023-10-17"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [10,10,10,10],
+            "weights": [20,20,20,20],
+            "rpe": 7,
+            "date" : "2023-10-17"
+        },
+        {
+            "exerciseName": "Curl-to-Press",
+            "reps": [10,10,10,10],
+            "weights": [30,30,30,30],
+            "rpe": 8,
+            "date" : "2023-10-17"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [20,20,20],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date" : "2023-10-17"
+        },
+        {
+            "exerciseName": "RDL",
+            "reps": [10,10,10],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date" : "2023-10-17"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [10,10,8,8,4,4,2,2],
+            "weights": [175,175,205,205,225,225,245,245],
+            "rpe": 9,
+            "date" : "2023-10-18"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [10,10,7,7,5,5,3,3,1,1],
+            "weights": [115,115,135,135,145,145,155,155,175,175],
+            "rpe": 9,
+            "date" : "2023-10-18"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [20,20,15,15,10,10,15,15,10,10,10,10],
+            "weights": [40,40,40,40,40,40,40,40,40,40,40,40],
+            "rpe": 9,
+            "date" : "2023-10-18"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Split Squat",
+            "reps": [5,5,5],
+            "weights": [95,95,95],
+            "rpe": 7,
+            "date" : "2023-10-19"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date" : "2023-10-19"
+        },
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5],
+            "weights": [205,205,205,205],
+            "rpe": 6,
+            "date" : "2023-10-19"
+        },
+        {
+            "exerciseName": "Front Squat",
+            "reps": [5,5,5],
+            "weights": [135,135,135],
+            "rpe": 6,
+            "date" : "2023-10-19"
+        },
+        {
+            "exerciseName": "RDL",
+            "reps": [10,10,10],
+            "weights": [90,90,90],
+            "rpe": 6,
+            "date" : "2023-10-19"
+        },
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [21,21,21,21],
+            "weights": [40,40,40],
+            "rpe": 8,
+            "date" : "2023-10-19"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [10,8,6,4,10],
+            "weights": [185,205,225,245,185],
+            "rpe": 7,
+            "date" : "2023-10-20"
+        },
+        {
+            "exerciseName": "Close Grip Bench",
+            "reps": [10,10,10,10,10,10,10,10,10,10],
+            "weights": [95,95,95,95,95,105,105,105,105,105],
+            "rpe": 8,
+            "date" : "2023-10-20"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5,5,5,5,5],
+            "weights": [115,115,115,115,115],
+            "rpe": 7,
+            "date" : "2023-10-20"
+        },
+        {
+            "exerciseName": "Split Squat",
+            "reps": [5,5,5,5],
+            "weights": [90,90,90,90],
+            "rpe": 7,
+            "date" : "2023-10-20"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [15,15,15,15],
+            "weights": [90,90,90,90],
+            "rpe": 7,
+            "date" : "2023-10-20"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+            "weights": [235,235,235,235,235,235,235,235,235,235,235,235,235,235,235,235,235,235,235,235,235],
+            "rpe": 10,
+            "date" : "2023-10-23"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [5,5,5,5,5],
+            "weights": [155,155,155,155,155],
+            "rpe": 6,
+            "date" : "2023-10-23"
+        },
+        {
+            "exerciseName": "DB Shoulder Press",
+            "reps": [5,5,5,5,5,5,5],
+            "weights": [40,40,40,40,40,40,40],
+            "rpe": 8,
+            "date" : "2023-10-23"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [3,3,3,3,3],
+            "weights": [185,185,185,185,185],
+            "rpe": 7,
+            "date" : "2023-10-24"
+        },
+        {
+            "exerciseName": "Deadlift",
+            "reps": [4,4,4,4],
+            "weights": [245,245,245,245],
+            "rpe": 6,
+            "date" : "2023-10-24"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-10-24"
+        },
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10,10,10,10,10],
+            "weights": [50,50,50,50,50],
+            "rpe": 7,
+            "date" : "2023-10-24"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [10,10,10,10,10],
+            "weights": [90,90,90,90,90],
+            "rpe": 6,
+            "date" : "2023-10-24"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [3,3,3,1,2,3,4],
+            "weights": [185,215,245,260,260,260,260],
+            "rpe": 8,
+            "date" : "2023-10-25"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [3,3,3,1,2,3,4],
+            "weights": [135,145,155,165,165,165,165],
+            "rpe": 7,
+            "date" : "2023-10-25"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [25,25,25,25],
+            "weights": [40,40,40,40],
+            "rpe": 7,
+            "date" : "2023-10-25"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [15,15,15,15],
+            "weights": [90,90,90,90],
+            "rpe": 6,
+            "date" : "2023-10-25"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5,5],
+            "weights": [185,185,185,185,185],
+            "rpe": 6,
+            "date" : "2023-10-26"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-10-26"
+        },
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5,5,5,5],
+            "weights": [205,205,205,205],
+            "rpe": 6,
+            "date" : "2023-10-26"
+        },
+        {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5,5,5,5],
+            "weights": [40,40,35,35],
+            "rpe": 7,
+            "date" : "2023-10-26"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [3,1,3,1,3,1],
+            "weights": [185,225,215,255,225,265],
+            "rpe": 7,
+            "date" : "2023-10-27"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [3,1,3,1,3,1],
+            "weights": [155,175,165,195,185,205],
+            "rpe": 7,
+            "date" : "2023-10-27"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5,5,5,5,5],
+            "weights": [115,115,115,115,115],
+            "rpe": 6,
+            "date" : "2023-10-27"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [15,15,15,15,15],
+            "weights": [50,50,50,50,50],
+            "rpe": 6,
+            "date" : "2023-10-27"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [4,4,4,4],
+            "weights": [155,155,155,155],
+            "rpe": 3,
+            "date" : "2023-10-30"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,3,2,1,1,1,1,1],
+            "weights": [175,215,255,265,275,285,285,295],
+            "rpe": 10,
+            "date" : "2023-10-31"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [7,7,7,5,5,5,3,3,3],
+            "weights": [145,145,145,155,155,155,165,165,165],
+            "rpe": 8,
+            "date" : "2023-11-01"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5,5,5,5],
+            "weights": [115,115,115,115],
+            "rpe": 6,
+            "date" : "2023-11-01"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-11-01"
+        },
+        {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [10,10,10],
+            "weights": [35,35,35],
+            "rpe": 7,
+            "date" : "2023-11-01"
+        },
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10,10,10],
+            "weights": [50,50,50],
+            "rpe": 6,
+            "date" : "2023-11-01"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [10,10,10,10,10,10,10,10,10,10],
+            "weights": [90,90,90,90,90,90,90,90,90,90],
+            "rpe": 8,
+            "date" : "2023-11-01"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [4,4,4,4],
+            "weights": [205,225,245,265],
+            "rpe": 8,
+            "date" : "2023-11-02"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [4,4,4,4],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-11-02"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [8,8,8,8],
+            "weights": [115,115,115,115],
+            "rpe": 8,
+            "date" : "2023-11-02"
+        },
+        {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5,5,5,5,5],
+            "weights": [40,40,35,35,35],
+            "rpe": 6,
+            "date" : "2023-11-02"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,3,3,3],
+            "weights": [225,225,225,255,255,255],
+            "rpe": 8,
+            "date" : "2023-11-03"
+        },
+        {
+            "exerciseName": "Front Squat",
+            "reps": [5,5,5,3,3,3],
+            "weights": [135,135,135,155,155,155],
+            "rpe": 7,
+            "date" : "2023-11-03"
+        },
+        {
+            "exerciseName": "Single Leg Extension",
+            "reps": [10,10,10,10],
+            "weights": [60,60,60,60],
+            "rpe": 7,
+            "date" : "2023-11-03"
+        },
+        {
+            "exerciseName": "Calf Raises",
+            "reps": [10,10,10,10],
+            "weights": [120,120,120,120],
+            "rpe": 7,
+            "date" : "2023-11-03"
+        }
+
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [11,9,7,5,3,5,5,5],
+            "weights": [125,135,145,155,165,155,155,155],
+            "rpe": 8,
+            "date" : "2023-11-06"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [15,15,15,15],
+            "weights": [15,15,15,15],
+            "rpe": 6,
+            "date" : "2023-11-06"
+        },
+        {
+            "exerciseName": "Dips",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 7,
+            "date" : "2023-11-06"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [25,25,25],
+            "weights": [40,40,40],
+            "rpe": 7,
+            "date" : "2023-11-06"
+        },
+        {
+            "exerciseName": "Close Grip Bench",
+            "reps": [10,10,10],
+            "weights": [95,95,95],
+            "rpe": 7,
+            "date" : "2023-11-06"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [20,20,20],
+            "weights": [90,90,90],
+            "rpe": 6,
+            "date" : "2023-11-06"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [4,5,5,5],
+            "weights": [225,225,225,225],
+            "rpe": 6,
+            "date" : "2023-11-07"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [4,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 7,
+            "date" : "2023-11-07"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [4,5,5,5],
+            "weights": [115,115,115,115],
+            "rpe": 7,
+            "date" : "2023-11-07"
+        },
+        {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [25,25,25,25],
+            "weights": [15,15,15,15],
+            "rpe": 7,
+            "date" : "2023-11-07"
+        },
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [25,25,25,25],
+            "weights": [40,40,40,40],
+            "rpe": 8,
+            "date" : "2023-11-07"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5],
+            "weights": [225,225,225,225],
+            "rpe": 6,
+            "date" : "2023-11-08"
+        },
+        {
+            "exerciseName": "Split Squat",
+            "reps": [5,5,5,5],
+            "weights": [135,135,135,135],
+            "rpe": 8,
+            "date" : "2023-11-08"
+        },
+        {
+            "exerciseName": "RDL",
+            "reps": [5,5,5,5],
+            "weights": [115,115,115,115],
+            "rpe": 7,
+            "date" : "2023-11-08"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [20,20,20,20],
+            "weights": [90,90,90,90],
+            "rpe": 6,
+            "date" : "2023-11-08"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-11-09"
+        },        
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5,5,5,5],
+            "weights": [225,225,225,225],
+            "rpe": 7,
+            "date" : "2023-11-09"
+        },
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [6,6,6,6],
+            "weights": [105,105,105,105],
+            "rpe": 8,
+            "date" : "2023-11-09"
+        },
+        {
+            "exerciseName": "1-Arm Row",
+            "reps": [5,5,5,5],
+            "weights": [50,50,50,50],
+            "rpe": 6,
+            "date" : "2023-11-09"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [15,15,15,15],
+            "weights": [15,15,15,15],
+            "rpe": 6,
+            "date" : "2023-11-09"
+        },
+        {
+            "exerciseName": "Lateral Pulldown",
+            "reps": [15,15,15,15],
+            "weights": [120,120,120,120],
+            "rpe": 7,
+            "date" : "2023-11-09"
+        },
+        {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [8,7,6,5],
+            "weights": [35,35,35,35],
+            "rpe": 7,
+            "date" : "2023-11-09"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [8,8,8,8,8,8,8,8,8,8],
+            "weights": [135,135,135,135,135,135,135,135,135,135],
+            "rpe": 9,
+            "date" : "2023-11-10"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [8,8,8,8,8,8,8,8,8,8],
+            "weights": [95,95,95,95,95,95,95,95,95,95],
+            "rpe": 8,
+            "date" : "2023-11-10"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [15,15,15,15],
+            "weights": [20,20,20,20],
+            "rpe": 7,
+            "date" : "2023-11-10"
+        },
+        {
+            "exerciseName": "DB Pullover",
+            "reps": [8,8,8,8],
+            "weights": [55,55,55,55],
+            "rpe": 7,
+            "date" : "2023-11-10"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [20,20,20,20,20],
+            "weights": [40,40,40,40,40],
+            "rpe": 7,
+            "date" : "2023-11-10"
+        }
+    ],
+    [
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10,10,10,10],
+            "weights": [60,60,60,60],
+            "rpe": 7,
+            "date" : "2023-11-16"
+        },
+        {
+            "exerciseName": "Curl-to-Press",
+            "reps": [12,12,12,12],
+            "weights": [25,25,25,25],
+            "rpe": 6,
+            "date" : "2023-11-16"
+        },
+        {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [10,10,10,10],
+            "weights": [30,30,30,30],
+            "rpe": 6,
+            "date" : "2023-11-16"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-11-16"
+        },
+        {
+            "exerciseName": "Close Grip Bench",
+            "reps": [10,10,10,10],
+            "weights": [95,95,95,95],
+            "rpe": 7,
+            "date" : "2023-11-16"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [12,12,12,12],
+            "weights": [45,45,45,45],
+            "rpe": 6,
+            "date" : "2023-11-16"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [10,10,10,10],
+            "weights": [50,50,50,50],
+            "rpe": 7,
+            "date" : "2023-11-16"
+        },
+        {
+            "exerciseName": "Dips",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-11-16"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [10,10,10,7,7,7,5,5,5,3,3,3,2,2,2],
+            "weights": [125,125,125,145,145,145,165,165,165,175,175,175,185,185,185],
+            "rpe": 10,
+            "date" : "2023-11-17"
+        },
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5,5,5,5,5,5,5,5,5,5,5,5,5,5,5],
+            "weights": [115,115,115,115,115,115,115,115,115,115,115,115,115,115,115],
+            "rpe": 9,
+            "date" : "2023-11-17"
+        },
+        {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [15,15,15],
+            "weights": [20,20,20],
+            "rpe": 6,
+            "date" : "2023-11-17"
+        },
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5,5,5],
+            "weights": [95,95,95],
+            "rpe": 6,
+            "date" : "2023-11-17"
+        },
+        {
+            "exerciseName": "Tate Press",
+            "reps": [15,15,15,15,15],
+            "weights": [30,30,30,30,30],
+            "rpe": 8,
+            "date" : "2023-11-17"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [15,15,15,15,15],
+            "weights": [40,40,40,40,40],
+            "rpe": 7,
+            "date" : "2023-11-17"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [3,3,3,3,3],
+            "weights": [225,235,245,255,255],
+            "rpe": 8,
+            "date" : "2023-11-21"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [3,3,3,3,3,3],
+            "weights": [165,175,185,195,205,205],
+            "rpe": 9,
+            "date" : "2023-11-21"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [12,12,12,12,12],
+            "weights": [20,20,20,20,20],
+            "rpe": 7,
+            "date" : "2023-11-21"
+        },
+        {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [12,12,12,12,12],
+            "weights": [20,20,20,20,20],
+            "rpe": 7,
+            "date" : "2023-11-21"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [17,17,17],
+            "weights": [50,50,50],
+            "rpe": 8,
+            "date" : "2023-11-21"
+        },
+        {
+            "exerciseName": "Tate Press",
+            "reps": [12,12,12],
+            "weights": [30,30,30],
+            "rpe": 7,
+            "date" : "2023-11-21"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [20,20,20],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date" : "2023-11-21"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [10,10,7,7,5,5,3,3,1,1,1,1],
+            "weights": [165,165,195,195,215,215,245,245,255,265,275,285],
+            "rpe": 10,
+            "date" : "2023-11-23"
+        }, 
+        {
+            "exerciseName": "Front Squat",
+            "reps": [8,8,8],
+            "weights": [135,135,135],
+            "rpe": 7,
+            "date" : "2023-11-23"
+        }, 
+        {
+            "exerciseName": "RDL",
+            "reps": [8,8,8],
+            "weights": [115,115,115],
+            "rpe": 7,
+            "date" : "2023-11-23"
+        }, 
+        {
+            "exerciseName": "Calf Raises",
+            "reps": [15,15,15,15],
+            "weights": [135,135,135,135],
+            "rpe": 6,
+            "date" : "2023-11-23"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [9,9,9,6,6,6,3,3,3],
+            "weights": [135,135,135,145,145,145,155,155,155],
+            "rpe": 8,
+            "date" : "2023-11-24"
+        },
+        {
+            "exerciseName": "Incline Bench",
+            "reps": [8,8,8,8,10,10,10,10],
+            "weights": [105,105,105,105,105,105,105,105],
+            "rpe": 9,
+            "date" : "2023-11-24"
+        },
+        {
+            "exerciseName": "Chest Flys",
+            "reps": [15,15,15,15],
+            "weights": [25,25,25,25],
+            "rpe": 7,
+            "date" : "2023-11-24"
+        },
+        {
+            "exerciseName": "Pec Deck",
+            "reps": [12,12,12],
+            "weights": [80,80,80],
+            "rpe": 6,
+            "date" : "2023-11-24"
+        },
+        {
+            "exerciseName": "Close Grip Bench",
+            "reps": [10,10,10],
+            "weights": [95,95,95],
+            "rpe": 7,
+            "date" : "2023-11-24"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [15,15,15,15],
+            "weights": [50,50,50,50],
+            "rpe": 7,
+            "date" : "2023-11-24"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5,5,5,5],
+            "weights": [185,205,225,225],
+            "rpe": 7,
+            "date" : "2023-11-27"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [5,5,5,3,3,3,5,5,5],
+            "weights": [115,125,135,145,155,165,125,135,145],
+            "rpe": 7,
+            "date" : "2023-11-27"
+        },
+        {
+            "exerciseName": "Face Pulls",
+            "reps": [15,15,15,15],
+            "weights": [40,40,40],
+            "rpe": 6,
+            "date" : "2023-11-27"
+        },
+        {
+            "exerciseName": "Skullcrushers",
+            "reps": [10,10,10,10,10],
+            "weights": [50,50,50,50,50],
+            "rpe": 6,
+            "date" : "2023-11-27"
+        },
+        {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [20,20,20],
+            "weights": [20,20,20],
+            "rpe": 6,
+            "date" : "2023-11-27"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [20,20,20],
+            "weights": [90,90,90],
+            "rpe": 6,
+            "date" : "2023-11-27"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [10,8,6,4,2],
+            "weights": [135,165,185,215,235],
+            "rpe": 8,
+            "date" : "2023-11-28"
+        },
+        {
+            "exerciseName": "DB Pullover",
+            "reps": [5,5,5,8,8],
+            "weights": [60,60,60,60,60],
+            "rpe": 7,
+            "date" : "2023-11-28"
+        },
+        {
+            "exerciseName": "RDL",
+            "reps": [10,10,10,10],
+            "weights": [110,110,110,110],
+            "rpe": 7,
+            "date" : "2023-11-28"
+        },
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5,5,5,5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date" : "2023-11-28"
+        },
+        {
+            "exerciseName": "2-Arm Row",
+            "reps": [15,15,15],
+            "weights": [80,80,80],
+            "rpe": 7,
+            "date" : "2023-11-28"
+        },
+        {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5,5,5,5],
+            "weights": [40,40,40,40],
+            "rpe": 8,
+            "date" : "2023-11-28"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [10,10,10,10],
+            "weights": [90,90,90,90],
+            "rpe": 6,
+            "date" : "2023-11-28"
+        }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [6,7,8,9,10],
+            "weights": [85,85,85,85,85],
+            "rpe": 7,
+            "date" : "2023-11-29"
+        },
+        {
+            "exerciseName": "Lateral Raise",
+            "reps": [11,11,11],
+            "weights": [20,20,20],
+            "rpe": 6,
+            "date" : "2023-11-29"
+        },
+        {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [11,11,11],
+            "weights": [20,20,20],
+            "rpe": 6,
+            "date" : "2023-11-29"
+        },
+        {
+            "exerciseName": "Upright Row",
+            "reps": [11,11,11],
+            "weights": [50,50,50],
+            "rpe": 7,
+            "date" : "2023-11-29"
+        },
+        {
+            "exerciseName": "Face Pulls",
+            "reps": [25,25,25,25,25],
+            "weights": [40,40,40,40,40],
+            "rpe": 8,
+            "date" : "2023-11-29"
+        },
+        {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [20,20,20],
+            "weights": [40,40,40],
+            "rpe": 6,
+            "date" : "2023-11-29"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5,5,3,3,3,5,5,5,5,5],
+            "weights": [165,195,215,235,255,215,215,185,185,185],
+            "rpe": 9,
+            "date" : "2023-11-30"
+        },
+        {
+            "exerciseName": "1-Arm Row",
+            "reps": [5,5,5,5],
+            "weights": [50,50,50,50],
+            "rpe": 7,
+            "date" : "2023-11-30"
+        },
+        {
+            "exerciseName": "Face Pulls",
+            "reps": [15,15,15],
+            "weights": [40,40,40],
+            "rpe": 6,
+            "date" : "2023-11-30"
+        },
+        {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [15,15,15],
+            "weights": [50,50,50],
+            "rpe": 6,
+            "date" : "2023-11-30"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5,5,5,5,1,1,1,1,1,1],
+            "weights": [165,185,205,205,225,235,245,255,265,275],
+            "rpe": 9,
+            "date" : "2023-12-01"
+        },
+        {
+            "exerciseName": "Bench",
+            "reps": [6,6,6,8,8,8,10,10,10],
+            "weights": [135,145,155,125,135,145,115,125,135],
+            "rpe": 8,
+            "date" : "2023-12-01"
+        },
+        {
+            "exerciseName": "Dips",
+            "reps": [10,10,10,10],
+            "weights": [0,0,0,0],
+            "rpe": 8,
+            "date" : "2023-12-01"
+        },
+        {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [20,20,20],
+            "weights": [20,20,20],
+            "rpe": 6,
+            "date" : "2023-12-01"
+        },
+        {
+            "exerciseName": "Pushups",
+            "reps": [10,10,10],
+            "weights": [0,0,0],
+            "rpe": 9,
+            "date" : "2023-12-01"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Pull-Up",
+            "reps": [6,6,6,6],
+            "weights": [0,0,0,0],
+            "rpe": 7,
+            "date" : "2023-12-04"
+        },
+        {
+            "exerciseName": "DB Pullover",
+            "reps": [5,5,5,5],
+            "weights": [60,60,60,60],
+            "rpe": 7,
+            "date" : "2023-12-04"
+        },
+        {
+            "exerciseName": "2-Arm Row",
+            "reps": [10,10,10],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date" : "2023-12-04"
+        },
+        {
+            "exerciseName": "Upright Row",
+            "reps": [10,10,10],
+            "weights": [50,50,50],
+            "rpe": 7,
+            "date" : "2023-12-04"
+        },
+        {
+            "exerciseName": "1-Arm Row",
+            "reps": [10,10,10],
+            "weights": [50,50,50],
+            "rpe": 7,
+            "date" : "2023-12-04"
+        },
+        {
+            "exerciseName": "Hammer Curls",
+            "reps": [20,20,20],
+            "weights": [35,35,35],
+            "rpe": 7,
+            "date" : "2023-12-04"
+        },
+        {
+            "exerciseName": "Shrugs",
+            "reps": [20,20,20],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date" : "2023-12-04"
+        }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [3, 3, 3, 3, 3],
+            "weights": [185, 205, 225, 245, 265],
+            "rpe": 8,
+            "date": "2023-12-05"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10, 10, 10, 10, 10, 10],
+            "weights": [90,90,90,90,90,90,90,90,90],
+            "rpe": 6,
+            "date": "2023-12-05"
+          },
+          {
+            "exerciseName": "Bench",
+            "reps": [5, 5, 5, 5],
+            "weights": [135, 145, 155, 165],
+            "rpe": 7,
+            "date": "2023-12-05"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10],
+            "weights": [50,50,50],
+            "rpe": 6,
+            "date": "2023-12-05"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2023-12-05"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [10,10,10],
+            "weights": [50,50,50],
+            "rpe": 5,
+            "date": "2023-12-05"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Front Squat",
+            "reps": [5, 5, 5],
+            "weights": [135, 145, 155],
+            "rpe": 7,
+            "date": "2023-12-06"
+          },
+          {
+            "exerciseName": "Back Squat",
+            "reps": [5, 5, 5],
+            "weights": [165, 195, 215],
+            "rpe": 7,
+            "date": "2023-12-06"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10, 5, 5, 5, 10],
+            "weights": [115, 145, 145, 145, 115],
+            "rpe": 8,
+            "date": "2023-12-06"
+          },
+          {
+            "exerciseName": "Chin-Up",
+            "reps": [5, 5, 5, 5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2023-12-06"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [5, 5, 5, 5],
+            "weights": [60, 60, 60, 60],
+            "rpe": 7,
+            "date": "2023-12-06"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [15, 15, 15],
+            "weights": [30, 30, 30],
+            "rpe": 7,
+            "date": "2023-12-06"
+          }
+    ],
+    [
+        
+        {
+                "exerciseName": "BB Overhead Press",
+                "reps": [5, 5, 5, 5],
+                "weights": [75, 95, 115, 115],
+                "rpe": 8,
+                "date": "2023-12-07"
+            },
+            {
+                "exerciseName": "Lateral Raise",
+                "reps": [11, 11, 11],
+                "weights": [20, 20, 20],
+                "rpe": 7,
+                "date": "2023-12-07"
+            },
+            {
+                "exerciseName": "Rear Lateral Raise",
+                "reps": [11, 11, 11],
+                "weights": [20, 20, 20],
+                "rpe": 7,
+                "date": "2023-12-07"
+            },
+            {
+                "exerciseName": "Curl-to-Press",
+                "reps": [11, 11, 11],
+                "weights": [20, 20, 20],
+                "rpe": 6,
+                "date": "2023-12-07"
+            },
+            {
+                "exerciseName": "Tricep Pushdown",
+                "reps": [10, 10, 10, 25, 25, 25],
+                "weights": [50,50,50, 40, 40, 40],
+                "rpe": 9,
+                "date": "2023-12-07"
+            },
+            {
+                "exerciseName": "Shrugs",
+                "reps": [20, 20, 20],
+                "weights": [90,90,90],
+                "rpe": 6,
+                "date": "2023-12-07"
+            }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5, 3, 1],
+            "weights": [255, 275, 295],
+            "rpe": 9,
+            "date": "2023-12-08"
+          },
+          {
+            "exerciseName": "DB Pullover",
+            "reps": [5, 5, 5],
+            "weights": [65, 65, 65],
+            "rpe": 8,
+            "date": "2023-12-08"
+          },
+          {
+            "exerciseName": "2-Arm Row",
+            "reps": [10, 10, 10],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date": "2023-12-08"
+          },
+          {
+            "exerciseName": "RDL",
+            "reps": [10, 10, 10],
+            "weights": [120,120,120],
+            "rpe": 7,
+            "date": "2023-12-08"
+
+          },
+          {
+            "exerciseName": "Chin-Up",
+            "reps": [5, 5, 5],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date": "2023-12-08"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [21, 21, 21],
+            "weights": [50, 50, 50],
+            "rpe": 9,
+            "date": "2023-12-08"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10],
+            "weights": [90,90,90,90],
+            "rpe": 7,
+            "date": "2023-12-08"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [3, 4, 5, 2, 3, 4, 1, 1, 1],
+            "weights": [205, 205, 205, 235, 235, 235, 275, 285, 275],
+            "rpe": 10,
+            "date": "2023-12-09"
+          },
+          {
+            "exerciseName": "Bench",
+            "reps": [4, 5, 6, 3, 4, 5, 1, 1, 1],
+            "weights": [135, 135, 135, 165, 165, 165, 185, 195, 205],
+            "rpe": 9,
+            "date": "2023-12-09"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10],
+            "weights": [0,0,0],
+            "rpe": 7,
+            "date": "2023-12-09"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10],
+            "weights": [90,90,90],
+            "rpe": 6,
+            "date": "2023-12-09"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5, 5, 5, 5, 5, 5],
+            "weights": [115, 115, 115, 115, 115, 115],
+            "rpe": 8,
+            "date": "2023-12-09"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10, 10, 10],
+            "weights": [115,115,115],
+            "rpe": 7,
+            "date": "2023-12-11"
+          },
+          {
+            "exerciseName": "DB Pullover",
+            "reps": [5, 8, 10, 12],
+            "weights": [65,60,55,50],
+            "rpe": 8,
+            "date": "2023-12-11"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [15, 15, 15, 15],
+            "weights": [25,25,25,25,25],
+            "rpe": 7,
+            "date": "2023-12-11"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [5, 5, 5, 5],
+            "weights": [60,60,60,60],
+            "rpe": 7,
+            "date": "2023-12-11"
+          },
+          {
+            "exerciseName": "Hammer Curls",
+            "reps": [15, 15, 15, 15],
+            "weights": [35,35,35,35],
+            "rpe": 7,
+            "date": "2023-12-11"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [3, 3, 3, 2, 2, 1, 1],
+            "weights": [165, 205, 225, 255, 275, 295, 295],
+            "rpe": 10,
+            "date": "2023-12-12"
+          },
+          {
+            "exerciseName": "Bench",
+            "reps": [2, 2, 2, 2, 2, 1,1,1 , 5],
+            "weights": [125, 135, 145, 155, 165, 185, 195, 205, 155],
+            "rpe": 9,
+            "date": "2023-12-12"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5,5,5],
+            "weights": [115, 115, 115],
+            "rpe": 7,
+            "date": "2023-12-12"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10, 10, 10, 10, 10],
+            "weights": [40,40,40,40,50,50,50,50],
+            "rpe": 9,
+            "date": "2023-12-12"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date": "2023-12-12"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5, 5, 5],
+            "weights": [165, 185, 205],
+            "rpe": 7,
+            "date": "2023-12-13"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10, 10, 10],
+            "weights": [115,115,115],
+            "rpe": 7,
+            "date": "2023-12-13"
+          },
+          {
+            "exerciseName": "1-Arm Row",
+            "reps": [5, 5, 5],
+            "weights": [50,50,50],
+            "rpe": 7,
+            "date": "2023-12-13"
+          },
+          {
+            "exerciseName": "Pull-Up",
+            "reps": [5, 5, 5],
+            "weights": [0,0,0],
+            "rpe": 7,
+            "date": "2023-12-13"
+          },
+          {
+            "exerciseName": "RDL",
+            "reps": [10, 10, 10],
+            "weights": [100,100,100],
+            "rpe": 6,
+            "date": "2023-12-13"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [10, 10, 10],
+            "weights": [35,35,35],
+            "rpe": 7,
+            "date": "2023-12-13"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [15, 15, 15],
+            "weights": [25,25,25],
+            "rpe": 7,
+            "date": "2023-12-13"
+          },
+          {
+            "exerciseName": "Hammer Curls",
+            "reps": [20, 20,20],
+            "weights": [35,35,35],
+            "rpe": 8,
+            "date": "2023-12-13"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5, 6, 7, 8],
+            "weights": [115,115,115,105],
+            "rpe": 7,
+            "date": "2023-12-14"
+          },
+          {
+            "exerciseName": "Close Grip Bench",
+            "reps": [5, 5, 5, 8, 8, 8, 10, 10, 10],
+            "weights": [115,115,115,95,95,95,95,95,95],
+            "rpe": 7,
+            "date": "2023-12-14"
+          },
+          {
+            "exerciseName": "Curl-to-Press",
+            "reps": [10, 10, 10],
+            "weights": [30,30,30],
+            "rpe": 7,
+            "date": "2023-12-14"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [20, 20, 20],
+            "weights": [50,50,50],
+            "rpe": 7,
+            "date": "2023-12-14"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Deadlift",
+            "reps": [5, 5, 5, 10],
+            "weights": [155, 175, 195, 155],
+            "rpe": 9,
+            "date": "2023-12-15"
+          },
+          {
+            "exerciseName": "Chin-Up",
+            "reps": [3, 3, 3, 3],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2023-12-15"
+          },
+          {
+            "exerciseName": "DB Pullover",
+            "reps": [5, 5, 5, 10],
+            "weights": [60,60,60,45],
+            "rpe": 7,
+            "date": "2023-12-15"
+          },
+          {
+            "exerciseName": "1-Arm Row",
+            "reps": [5, 5, 10],
+            "weights": [60,60,50],
+            "rpe": 7,
+            "date": "2023-12-15"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [21, 21, 21],
+            "weights": [50,50,50],
+            "rpe": 8,
+            "date": "2023-12-15"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10,10,10],
+            "weights": [90,90,90],
+            "rpe": 5,
+            "date": "2023-12-15"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Chin-Up",
+            "reps": [5, 5, 5, 5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2023-12-20"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10, 10, 10],
+            "weights": [115,115,115,115],
+            "rpe": 6,
+            "date": "2023-12-20"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [20, 20, 20],
+            "weights": [20,20,20,20],
+            "rpe": 6,
+            "date": "2023-12-20"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5, 5, 5],
+            "weights": [135, 135, 135],
+            "rpe": 7,
+            "date": "2023-12-20"
+          },
+          {
+            "exerciseName": "1-Arm Row",
+            "reps": [8, 8, 8, 8],
+            "weights": [55,55,55,55],
+            "rpe": 7,
+            "date": "2023-12-20"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10, 10, 10, 10],
+            "weights": [50,50,50,50],
+            "rpe": 6,
+            "date": "2023-12-20"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20, 20],
+            "weights": [90,90,90,90],
+            "rpe": 6,
+            "date": "2023-12-20"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [5, 4, 3, 2, 1, 5, 4, 3, 2, 1],
+            "weights": [145, 165, 185, 195, 205, 155, 175, 185, 195, 205],
+            "rpe": 10,
+            "date": "2023-12-21"
+          },
+          {
+            "exerciseName": "Incline",
+            "reps": [5,5,5,5,5],
+            "weights": [135, 135, 135, 135],
+            "rpe": 8,
+            "date": "2023-12-21"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 8,
+            "date": "2023-12-21"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20, 20],
+            "weights": [90,90,90,90],
+            "rpe": 6,
+            "date": "2023-12-21"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [20, 20, 20],
+            "weights": [50,50,50],
+            "rpe": 7,
+            "date": "2023-12-21"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Split Squat",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [135, 135, 135, 135, 135],
+            "rpe": 8,
+            "date": "2023-12-22"
+          },
+          {
+            "exerciseName": "Lateral Pulldown",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [130, 130, 130, 130, 130],
+            "rpe": 7,
+            "date": "2023-12-22"
+          },
+          {
+            "exerciseName": "Single Leg Extension",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [60,60,60,60,60],
+            "rpe": 7,
+            "date": "2023-12-22"
+          },
+          {
+            "exerciseName": "1-Arm Row",
+            "reps": [10, 10, 10, 10],
+            "weights": [50,50,50,50,50],
+            "rpe": 6,
+            "date": "2023-12-22"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20, 20],
+            "weights": [90,90,90,90],
+            "rpe": 6,
+            "date": "2023-12-22"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [125, 125, 125, 125, 125],
+            "rpe": 8,
+            "date": "2023-12-23"
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "reps": [15, 15, 15, 15],
+            "weights": [25,25,25,25],
+            "rpe": 6,
+            "date": "2023-12-23"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [15, 15, 15, 15],
+            "weights": [25,25,25,25],
+            "rpe": 6,
+            "date": "2023-12-23"
+          },
+          {
+            "exerciseName": "Curl-to-Press",
+            "reps": [10, 10, 10],
+            "weights": [30,30,30],
+            "rpe": 6,
+            "date": "2023-12-23"
+          },
+          {
+            "exerciseName": "Hammer Curls",
+            "reps": [10, 10, 10],
+            "weights": [40,40,40],
+            "rpe": 6,
+            "date": "2023-12-23"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [8, 8, 5, 5, 2, 2],
+            "weights": [145, 145, 165, 165, 185, 185],
+            "rpe": 7,
+            "date": "2023-12-26"
+          },
+          {
+            "exerciseName": "Incline",
+            "reps": [5,5,5,5],
+            "weights": [135, 135, 135, 135],
+            "rpe": 7,
+            "date": "2023-12-26"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10],
+            "weights": [50,50,50,50],
+            "rpe": 6,
+            "date": "2023-12-26"
+          },
+          {
+            "exerciseName": "Tate Press",
+            "reps": [10, 10, 10],
+            "weights": [30,30,30],
+            "rpe": 7,
+            "date": "2023-12-26"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [15, 15, 15, 15],
+            "weights": [50,50,50,50],
+            "rpe": 6,
+            "date": "2023-12-26"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20],
+            "weights": [90,90,90],
+            "rpe": 6,
+            "date": "2023-12-26"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [185,185,185,185,185],
+            "rpe": 7,
+            "date": "2023-12-27"
+          },
+          {
+            "exerciseName": "Split Squat",
+            "reps": [10, 10, 10],
+            "weights": [90,90,90],
+            "rpe": 7,
+            "date": "2023-12-27"
+          },
+          {
+            "exerciseName": "Single Leg Extension",
+            "reps": [15, 15, 15, 15],
+            "weights": [55,55,55,55],
+            "rpe": 7,
+            "date": "2023-12-27"
+          },
+          {
+            "exerciseName": "Glutes",
+            "reps": [10, 10, 10],
+            "weights": [45,45,45],
+            "rpe": 7,
+            "date": "2023-12-27"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [10, 10, 5, 5, 3, 3],
+            "weights": [95, 95, 105, 105, 115, 115],
+            "rpe": 8,
+            "date": "2023-12-28"
+          },
+          {
+            "exerciseName": "2-Arm Row",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [110,110,110,110,110],
+            "rpe": 7,
+            "date": "2023-12-28"
+          },
+          {
+            "exerciseName": "Curl-to-Press",
+            "reps": [10, 10, 10],
+            "weights": [35,35,35],
+            "rpe": 7,
+            "date": "2023-12-28"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5, 5, 5],
+            "weights": [45,40,40],
+            "rpe": 7,
+            "date": "2023-12-28"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20],
+            "weights": [90,90,90],
+            "rpe": 6,
+            "date": "2023-12-28"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [5, 5, 5, 5, 8, 8, 10],
+            "weights": [145, 165, 175, 185, 145, 145, 135],
+            "rpe": 8,
+            "date": "2023-12-29"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5, 5, 5],
+            "weights": [135, 135, 135],
+            "rpe": 6,
+            "date": "2023-12-29"
+          },
+          {
+            "exerciseName": "Pushups",
+            "reps": [10, 10, 10],
+            "weights": [0,0,0],
+            "rpe": 5,
+            "date": "2023-12-29"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [50,50,50,50,50],
+            "rpe": 6,
+            "date": "2023-12-29"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [0,0,0,0,0],
+            "rpe": 7,
+            "date": "2023-12-29"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [20, 20, 20],
+            "weights": [50,50,50],
+            "rpe": 6,
+            "date": "2023-12-29"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Split Squat",
+            "reps": [10, 8, 6, 4, 2, 10],
+            "weights": [85, 95, 105, 115, 125, 85],
+            "rpe": 8,
+            "date": "2024-01-02"
+          },
+          {
+            "exerciseName": "Single Leg Extension",
+            "reps": [10, 10, 10, 10],
+            "weights": [55,55,55,55],
+            "rpe": 6,
+            "date": "2024-01-02"
+          },
+          {
+            "exerciseName": "Glutes",
+            "reps": [15, 15, 15],
+            "weights": [45,45,45],
+            "rpe": 6,
+            "date": "2024-01-02"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [5, 5, 4, 4, 2, 2, 1, 1, 5, 5, 1],
+            "weights": [145, 155, 165, 175, 185, 185, 195, 195, 145, 145, 205],
+            "rpe": 10,
+            "date": "2024-01-03"
+          },
+          {
+            "exerciseName": "Tate press",
+            "reps": [12, 12, 12],
+            "weights": [30,30,30],
+            "rpe": 7,
+            "date": "2024-01-03"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10],
+            "weights": [60,60,60],
+            "rpe": 7,
+            "date": "2024-01-03"
+          },
+          {
+            "exerciseName": "Chest Flys",
+            "reps": [15, 15, 15],
+            "weights": [25,25,25],
+            "rpe": 7,
+            "date": "2024-01-03"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [20, 20, 20],
+            "weights": [50,50,50],
+            "rpe": 6,
+            "date": "2024-01-03"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [115, 115, 115, 115, 115],
+            "rpe": 7,
+            "date": "2024-01-04"
+          },
+          {
+            "exerciseName": "Lateral Pulldown",
+            "reps": [5, 5, 10, 10],
+            "weights": [140,140,120,120],
+            "rpe": 7,
+            "date": "2024-01-04"
+          },
+          {
+            "exerciseName": "Arnolds",
+            "reps": [10, 10, 10],
+            "weights": [35,35,35],
+            "rpe": 7,
+            "date": "2024-01-04"
+          },
+          {
+            "exerciseName": "Pull-Up",
+            "reps": [5, 5, 5, 5],
+            "weights": [0,0,0,0],
+            "rpe": 7,
+            "date": "2024-01-04"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [15, 15, 15, 15],
+            "weights": [25,25,25,25],
+            "rpe": 6,
+            "date": "2024-01-04"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20],
+            "weights": [90,90,90],
+            "rpe": 6,
+            "date": "2024-01-04"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5, 4, 3, 2],
+            "weights": [165, 185, 205, 225],
+            "rpe": 7,
+            "date": "2024-01-05"
+          },
+          {
+            "exerciseName": "Split Squat",
+            "reps": [10, 10, 10, 10],
+            "weights": [105,105,105],
+            "rpe": 7,
+            "date": "2024-01-05"
+          },
+          {
+            "exerciseName": "Single Leg Extension",
+            "reps": [12, 12, 12],
+            "weights": [55,55,55],
+            "rpe": 6,
+            "date": "2024-01-05"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [165, 165, 165, 165, 165],
+            "rpe": 7,
+            "date": "2024-01-07"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5, 5, 5, 5, 5, 8,8,8],
+            "weights": [135, 135, 135, 135, 135, 120,120,120],
+            "rpe": 8,
+            "date": "2024-01-07"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10],
+            "weights": [60,60,60],
+            "rpe": 7,
+            "date": "2024-01-07"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date": "2024-01-07"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [10, 10, 10],
+            "weights": [55,55,55],
+            "rpe": 6,
+            "date": "2024-01-07"
+          }
+    ],
+    [
+        {
+            "exerciseName": "DB Pullover",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [70,70,70,70],
+            "rpe": 8,
+            "date": "2024-01-08"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [0,0,0,0,0],
+            "rpe": 7,
+            "date": "2024-01-08"
+          },
+          {
+            "exerciseName": "Chin-Up",
+            "reps": [4, 4, 4, 4, 4],
+            "weights": [0,0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-08"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [135,135,115,115,115],
+            "rpe": 7,
+            "date": "2024-01-08"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [50,50,50,50,50],
+            "rpe": 6,
+            "date": "2024-01-08"
+          },
+          {
+            "exerciseName": "1-Arm Row",
+            "reps": [5, 5, 5],
+            "weights": [60,60,60],
+            "rpe": 7,
+            "date": "2024-01-08"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Arnolds",
+            "reps": [8, 8, 8, 8],
+            "weights": [40,40,40,40],
+            "rpe": 7,
+            "date": "2024-01-09"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10, 10, 10, 10],
+            "weights": [60,60,60,60],
+            "rpe": 7,
+            "date": "2024-01-09"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [15, 15, 15, 15],
+            "weights": [25,25,25,25],
+            "rpe": 6,
+            "date": "2024-01-09"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [45,45,40,40,40],
+            "rpe": 7,
+            "date": "2024-01-09"
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "reps": [15, 15, 15, 15],
+            "weights": [20,20,20,20],
+            "rpe": 6,
+            "date": "2024-01-09"
+          },
+          {
+            "exerciseName": "Curl Machine",
+            "reps": [10, 10, 10],
+            "weights": [55,55,55],
+            "rpe": 6,
+            "date": "2024-01-09"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5, 6, 7, 8],
+            "weights": [205, 205, 185, 185],
+            "rpe": 7,
+            "date": "2024-01-10"
+          },
+          {
+            "exerciseName": "RDL",
+            "reps": [5, 5, 5, 5],
+            "weights": [135, 135, 135, 135],
+            "rpe": 7,
+            "date": "2024-01-10"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [15, 15, 15, 15, 10,10,10,10],
+            "weights": [90,90,90,90,90,115,115,115,115],
+            "rpe": 7,
+            "date": "2024-01-10"
+          },
+          {
+            "exerciseName": "Front Squat",
+            "reps": [3, 3, 3, 3],
+            "weights": [135, 135, 155, 155],
+            "rpe": 7,
+            "date": "2024-01-10"
+          }
+    ],
+    [
+        {
+            "exerciseName": "1-Arm Row",
+            "reps": [5, 5, 8, 8],
+            "weights": [60,60,55,55],
+            "rpe": 7,
+            "date": "2024-01-11"
+          },
+          {
+            "exerciseName": "Pull-Up",
+            "reps": [5, 5, 5, 5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-11"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [21,21,21],
+            "weights": [50,50,50],
+            "rpe": 8,
+            "date": "2024-01-11"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [8, 8, 8, 8, 8, 8],
+            "weights": [135,135,115,115,115,115],
+            "rpe": 8,
+            "date": "2024-01-11"
+          },
+          {
+            "exerciseName": "Hammer Curls",
+            "reps": [15, 15, 15, 15],
+            "weights": [40,40,40,40],
+            "rpe": 7,
+            "date": "2024-01-11"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [5, 5, 5, 5, 8, 8, 10],
+            "weights": [155, 165, 175, 185, 155, 155, 145],
+            "rpe": 7,
+            "date": "2024-01-12"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5, 5, 5, 5],
+            "weights": [135,135,135,135],
+            "rpe": 6,
+            "date": "2024-01-12"
+          },
+          {
+            "exerciseName": "Pushups",
+            "reps": [10, 10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 5,
+            "date": "2024-01-12"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10],
+            "weights": [50,50,50,50],
+            "rpe": 6,
+            "date": "2024-01-12"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-12"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [4, 5, 6, 7, 7, 6, 5, 4],
+            "weights": [205, 205, 205, 205, 185, 185, 185, 185],
+            "rpe": 9,
+            "date": "2024-01-15"
+          },
+          {
+            "exerciseName": "Front Squat",
+            "reps": [4, 4, 4, 4],
+            "weights": [135, 135, 135, 135],
+            "rpe": 7,
+            "date": "2024-01-15"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10],
+            "weights": [90,90,90,90],
+            "rpe": 6,
+            "date": "2024-01-15"
+          },
+          {
+            "exerciseName": "RDL",
+            "reps": [5, 5, 5, 5],
+            "weights": [135],
+            "rpe": 6,
+            "date": "2024-01-15"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [115, 115, 115, 115, 115],
+            "rpe": 7,
+            "date": "2024-01-16"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [25,25,25,25,25],
+            "rpe": 6,
+            "date": "2024-01-16"
+          },
+          {
+            "exerciseName": "Upright Row",
+            "reps": [10, 10, 10, 10],
+            "weights": [75, 75, 75, 75],
+            "rpe": 7,
+            "date": "2024-01-16"
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "reps": [10, 10, 10, 10],
+            "weights": [25,25,25,25],
+            "rpe": 7,
+            "date": "2024-01-16"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-16"
+          },
+          {
+            "exerciseName": "Pushups",
+            "reps": [10, 10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-16"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [5, 5, 5, 10, 10, 10],
+            "weights": [60,60,60,50,50,50],
+            "rpe": 7,
+            "date": "2024-01-16"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [6, 6, 6, 6, 6, 6],
+            "weights": [135,135,135,135,135,135],
+            "rpe": 8,
+            "date": "2024-01-17"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10, 10, 10],
+            "weights": [90,90,90,90,90,90],
+            "rpe": 7,
+            "date": "2024-01-17"
+          },
+          {
+            "exerciseName": "DB Pullover",
+            "reps": [5, 5, 5, 5],
+            "weights": [65,65,65,65],
+            "rpe": 7,
+            "date": "2024-01-17"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10, 10, 10, 10],
+            "weights": [50,50,50,50],
+            "rpe": 6,
+            "date": "2024-01-17"
+          },
+          {
+            "exerciseName": "Chin-Up",
+            "reps": [5, 5, 5, 5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-17"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5, 8, 10],
+            "weights": [45,40,35],
+            "rpe": 7,
+            "date": "2024-01-17"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [5, 5, 5, 5, 8, 8, 10],
+            "weights": [165, 175, 185, 195, 165, 165, 155],
+            "rpe": 9,
+            "date": "2024-01-18"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5, 5, 5],
+            "weights": [135,135,135],
+            "rpe": 6,
+            "date": "2024-01-18"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-18"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10],
+            "weights": [50,50,50,50],
+            "rpe": 6,
+            "date": "2024-01-18"
+          },
+          {
+            "exerciseName": "Close Grip Bench",
+            "reps": [5, 5, 5, 10, 10, 10],
+            "weights": [115,115,115,95,95,95],
+            "rpe": 7,
+            "date": "2024-01-18"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [10, 10, 8, 8, 6, 6],
+            "weights": [155, 175, 185, 205, 225, 235],
+            "rpe": 7,
+            "date": "2024-01-19"
+          },
+          {
+            "exerciseName": "RDL",
+            "reps": [10, 10, 10],
+            "weights": [135,135,135],
+            "rpe": 6,
+            "date": "2024-01-19"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+            "weights": [90,90,90,90,90,90,90,90,90,90],
+            "rpe": 9,
+            "date": "2024-01-19"
+          },
+          {
+            "exerciseName": "Front Squat",
+            "reps": [5, 5, 5],
+            "weights": [135, 135, 135],
+            "rpe": 6,
+            "date": "2024-01-19"
+          }
+    ],
+    [
+          {
+            "exerciseName": "Arnolds",
+            "reps": [10, 10, 10],
+            "weights": [45,45,45],
+            "rpe": 7,
+            "date": "2024-01-22"
+          },
+          {
+            "exerciseName": "Face Pulls",
+            "reps": [10, 10, 10],
+            "weights": [45,45,45],
+            "rpe": 7,
+            "date": "2024-01-22"
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "reps": [10, 10, 10, 10, 10, 10],
+            "weights": [20,20,20,20,20,20],
+            "rpe": 7,
+            "date": "2024-01-22"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [10, 10, 10],
+            "weights": [20,20,20],
+            "rpe": 5,
+            "date": "2024-01-22"
+          },
+          {
+            "exerciseName": "Curl-to-Press",
+            "reps": [10, 10, 10],
+            "weights": [35,35,35],
+            "rpe": 6,
+            "date": "2024-01-22"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10],
+            "weights": [50,50,50],
+            "rpe": 5,
+            "date": "2024-01-22"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+            "weights": [45,45,45,45,45,45,45,45,45,45],
+            "rpe": 8,
+            "date": "2024-01-22"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5, 5, 8, 8, 10, 10],
+            "weights": [155, 135, 135, 135, 135, 135],
+            "rpe": 8,
+            "date": "2024-01-23"
+          },
+          {
+            "exerciseName": "Pullups",
+            "reps": [5, 5, 5, 5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-23"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10, 10, 10, 5, 5, 5],
+            "weights": [50,50,50,60,60,60],
+            "rpe": 7,
+            "date": "2024-01-23"
+          },
+          {
+            "exerciseName": "DB Pullover",
+            "reps": [10, 10, 10],
+            "weights": [65,65,65],
+            "rpe": 7,
+            "date": "2024-01-23"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5, 5, 5],
+            "weights": [40,40,40],
+            "rpe": 7,
+            "date": "2024-01-23"
+          },
+          {
+            "exerciseName": "1-Arm Row",
+            "reps": [5, 5, 5],
+            "weights": [60,60,60],
+            "rpe": 7,
+            "date": "2024-01-23"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Front Squat",
+            "reps": [3, 4, 5, 2, 3, 4],
+            "weights": [135, 135, 135, 165, 165, 165],
+            "rpe": 8,
+            "date": "2024-01-24"
+          },
+          {
+            "exerciseName": "Back Squat",
+            "reps": [3, 3, 3],
+            "weights": [225, 245, 255],
+            "rpe": 7,
+            "date": "2024-01-24"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10,10,10],
+            "weights": [90,90,90 , 135,135,135],
+            "rpe": 6,
+            "date": "2024-01-24"
+          },
+          {
+            "exerciseName": "Split Squat",
+            "reps": [5, 5, 5],
+            "weights": [135,135,135],
+            "rpe": 7,
+            "date": "2024-01-24"
+          },
+          {
+            "exerciseName": "Calf Raises",
+            "reps": [10, 10, 10],
+            "weights": [135,135,135],
+            "rpe": 6,
+            "date": "2024-01-24"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [3, 2, 1, 5, 3, 2, 1, 5, 3, 2, 1, 5],
+            "weights": [175, 185, 195, 145, 185, 195, 205, 155, 195, 205, 215, 165],
+            "rpe": 10,
+            "date": "2024-01-25"
+          },
+          {
+            "exerciseName": "Close Grip Bench",
+            "reps": [10, 10, 10, 10],
+            "weights": [95,95,95,95],
+            "rpe": 7,
+            "date": "2024-01-25"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date": "2024-01-25"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10],
+            "weights": [60,60,60],
+            "rpe": 6,
+            "date": "2024-01-25"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Lat Pulldown",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [140, 140, 140, 140, 140],
+            "rpe": 8,
+            "date": "2024-01-26"
+          },
+          {
+            "exerciseName": "DB Pullover",
+            "reps": [5, 5, 5, 10, 10, 10],
+            "weights": [70, 70, 70, 55, 55, 55],
+            "rpe": 8,
+            "date": "2024-01-26"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5, 5, 5, 10, 10, 10],
+            "weights": [45, 45, 45, 35, 35, 35],
+            "rpe": 7,
+            "date": "2024-01-26"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5, 5, 5, 10, 10, 10],
+            "weights": [135, 135, 135, 115, 115, 115],
+            "rpe": 7,
+            "date": "2024-01-26"
+          },
+          {
+            "exerciseName": "Curl Machine",
+            "reps": [10, 10, 10, 10],
+            "weights": [55,55,55,55],
+            "rpe": 6,
+            "date": "2024-01-26"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [3, 2, 1, 5, 3, 2, 1, 5, 3, 2, 1],
+            "weights": [225, 255, 265, 225, 235, 245, 265, 225, 255, 265, 275],
+            "rpe": 9,
+            "date": "2024-01-29"
+          },
+          {
+            "exerciseName": "RDL",
+            "reps": [5, 5, 5, 5],
+            "weights": [135,135,135,135],
+            "rpe": 6,
+            "date": "2024-01-29"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10, 10],
+            "weights": [90,90,90,90,90],
+            "rpe": 6,
+            "date": "2024-01-29"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5, 6, 7, 8, 9, 10],
+            "weights": [115, 115, 105, 105, 105, 105],
+            "rpe": 8,
+            "date": "2024-01-30"
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "reps": [15, 15, 15, 15],
+            "weights": [20,20,20,20],
+            "rpe": 6,
+            "date": "2024-01-30"
+          },
+          {
+            "exerciseName": "Rear Lateral Raise",
+            "reps": [15, 15, 15],
+            "weights": [20,20,20],
+            "rpe": 6,
+            "date": "2024-01-30"
+          },
+          {
+            "exerciseName": "Upright Row",
+            "reps": [10, 10, 10],
+            "weights": [70,70,70],
+            "rpe": 6,
+            "date": "2024-01-30"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10],
+            "weights": [60,60,60,60],
+            "rpe": 7,
+            "date": "2024-01-30"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [10, 10, 10],
+            "weights": [50,50,50],
+            "rpe": 6,
+            "date": "2024-01-30"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [10, 10, 10],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date": "2024-01-30"
+          }
+    ],
+    [
+        {
+            "exerciseName": "1-Arm Row",
+            "reps": [6, 6, 6, 6],
+            "weights": [60, 60, 60, 60],
+            "rpe": 7,
+            "date": "2024-01-31"
+          },
+          {
+            "exerciseName": "Chin-Up",
+            "reps": [5, 5, 5, 5],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-01-31"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [5, 5, 5, 5],
+            "weights": [155, 155, 155, 155],
+            "rpe": 7,
+            "date": "2024-01-31"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10, 10, 10, 10],
+            "weights": [60, 60, 60, 60],
+            "rpe": 6,
+            "date": "2024-01-31"
+          },
+          {
+            "exerciseName": "Alternating DB Curls",
+            "reps": [5, 5, 5, 5],
+            "weights": [35, 35, 35, 35],
+            "rpe": 6,
+            "date": "2024-01-31"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [20, 20, 20],
+            "weights": [100,100,100],
+            "rpe": 6,
+            "date": "2024-01-31"
+          }      
+    ],
+    [
+        {
+            "exerciseName": "Front Squat",
+            "reps": [5, 5, 5, 5],
+            "weights": [135, 155, 155, 155],
+            "rpe": 7,
+            "date": "2024-02-01"
+          },
+          {
+            "exerciseName": "RDL",
+            "reps": [10, 10, 10, 10],
+            "weights": [135,135,135,135],
+            "rpe": 7,
+            "date": "2024-02-01"
+          },
+          {
+            "exerciseName": "Split Squat",
+            "reps": [5, 5, 5],
+            "weights": [135,135,135],
+            "rpe": 7,
+            "date": "2024-02-01"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10, 10, 10],
+            "weights": [135,135,135],
+            "rpe": 6,
+            "date": "2024-02-01"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10, 10, 10, 10, 10],
+            "weights": [100,100,100,100, 135,135,135],
+            "rpe": 8,
+            "date": "2024-02-01"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [5, 5, 5, 5, 5, 3, 3, 3, 1, 1, 1],
+            "weights": [165, 165, 165, 165, 165, 175, 175, 175, 185, 185, 185],
+            "rpe": 8,
+            "date": "2024-02-02"
+          },
+          {
+            "exerciseName": "Incline Bench",
+            "reps": [5, 5, 5, 10],
+            "weights": [135, 135, 135, 105],
+            "rpe": 7,
+            "date": "2024-02-02"
+          },
+          {
+            "exerciseName": "Close Grip Bench",
+            "reps": [5, 5, 5],
+            "weights": [115, 115, 115],
+            "rpe": 7,
+            "date": "2024-02-02"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10],
+            "weights": [60,60,60,60],
+            "rpe": 6,
+            "date": "2024-02-02"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [5, 5, 5],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date": "2024-02-02"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Back Squat",
+            "reps": [5, 5, 5, 5, 5, 5],
+            "weights": [185, 225, 185, 185, 185, 185],
+            "rpe": 7,
+            "date": "2024-02-04"
+          },
+          {
+            "exerciseName": "Single Leg Extensions",
+            "reps": [10, 10, 10, 10],
+            "weights": [70,70,70,70],
+            "rpe": 7,
+            "date": "2024-02-04"
+          }
+    ],
+    [
+        {
+            "exerciseName": "BB Overhead Press",
+            "reps": [5, 5, 5, 5, 5],
+            "weights": [105, 105, 105, 105, 105],
+            "rpe": 7,
+            "date": "2024-02-05"
+          },
+          {
+            "exerciseName": "Chin-Up",
+            "reps": [5, 5, 5],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date": "2024-02-05"
+          },
+          {
+            "exerciseName": "BB Bent-over Rows",
+            "reps": [10, 10, 10],
+            "weights": [125, 125, 125],
+            "rpe": 7,
+            "date": "2024-02-05"
+          },
+          {
+            "exerciseName": "Arnolds",
+            "reps": [10, 10, 10, 10],
+            "weights": [45, 45, 45, 45],
+            "rpe": 7,
+            "date": "2024-02-05"
+          },
+          {
+            "exerciseName": "BB Bicep Curl",
+            "reps": [10, 10, 10],
+            "weights": [60, 60, 60],
+            "rpe": 6,
+            "date": "2024-02-05"
+          },
+          {
+            "exerciseName": "Shrugs",
+            "reps": [10, 10, 10],
+            "weights": [90,90,90],
+            "rpe": 5,
+            "date": "2024-02-05"
+          },
+          {
+            "exerciseName": "Curl Machine",
+            "reps": [10, 10, 10],
+            "weights": [55,55,55],
+            "rpe": 6,
+            "date": "2024-02-05"
+          }
+    ],
+    [
+        {
+            "exerciseName": "Bench",
+            "reps": [6, 6, 6, 4, 4, 4, 2, 2, 2],
+            "weights": [165, 165, 165, 175, 175, 175, 185, 185, 185],
+            "rpe": 7,
+            "date": "2024-02-06"
+          },
+          {
+            "exerciseName": "Tate Press",
+            "reps": [5, 5, 5, 5],
+            "weights": [40,40,40,40],
+            "rpe": 6,
+            "date": "2024-02-06"
+          },
+          {
+            "exerciseName": "Pushups",
+            "reps": [10, 10, 10, 10],
+            "weights": [0,0,0,0],
+            "rpe": 6,
+            "date": "2024-02-06"
+          },
+          {
+            "exerciseName": "Skullcrushers",
+            "reps": [10, 10, 10, 10],
+            "weights": [60, 60, 60, 60],
+            "rpe": 6,
+            "date": "2024-02-06"
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "reps": [10, 10, 10, 10],
+            "weights": [50, 50, 50, 50],
+            "rpe": 6,
+            "date": "2024-02-06"
+          },
+          {
+            "exerciseName": "Dips",
+            "reps": [5, 5, 5],
+            "weights": [0,0,0],
+            "rpe": 6,
+            "date": "2024-02-06"
+          }
     ]
-    ]
+]
 }
